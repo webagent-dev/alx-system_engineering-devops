@@ -1,2 +1,0 @@
-#!/bin/bash
-PATH='readdlink -f "${BASH_SOURCE: -0$}"'
